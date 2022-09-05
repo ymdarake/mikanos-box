@@ -1,4 +1,4 @@
-# image for developing MikanOs
+# image for developing MikanOS
 
 ## setup
 ```zsh
